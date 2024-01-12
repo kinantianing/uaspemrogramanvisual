@@ -1,12 +1,11 @@
-# UJIAN AKHIR SEMESTER
-# PEMROGRAMAN VISUAL
+# UJIAN AKHIR SEMESTER - PEMROGRAMAN VISUAL
 
 **Nama          : Aning Kinanti** <br>
 **NIM           : 312010364** <br>
 **Kelas         : TI.20.A.RPL.2** <br>
 **Mata Kuliah   : Pemrograman Visual** <br>
 
-## Sistem Informasi Penjualan
+## SISTEM INFORMASI PENJUALAN
 
 ## Login
 ![Gambar 1](screenshot/login.PNG) <br>
