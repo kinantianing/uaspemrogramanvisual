@@ -1,9 +1,9 @@
 # uaspemrogramanvisual
 
-**Nama          : Aning Kinanti
-**NIM           : 312010364
-**Kelas         : TI.20.A.RPL.2
-**Mata Kuliah   : Pemrograman Visual
+**Nama          : Aning Kinanti** <br>
+**NIM           : 312010364** <br>
+**Kelas         : TI.20.A.RPL.2** <br>
+**Mata Kuliah   : Pemrograman Visual** <br>
 
 ## Sistem Informasi Penjualan
 
